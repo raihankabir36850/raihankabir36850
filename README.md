@@ -1,5 +1,5 @@
 #👋 Hello, Myself Kabir<br>
-Software Engineer (Heavily focused on frontend)<br><br>I'm currently working as a front-end dev.<br>I'm currently learning node.js for the backend.<br>I'm currently looking for a front-end developer position.<br>
+Software Engineer (Heavily focused on frontend)<br><br>I'm currently working as a front-end dev.<br>I'm currently learning GoLang for the backend.<br>I'm currently looking for a front-end developer position.<br>
 
 
 ## 🌐 Socials:
